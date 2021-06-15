@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/panfilkin_carsharing_NEW/static/css/main.53e41f52.chunk.css",
+    "main.js": "/panfilkin_carsharing_NEW/static/js/main.6fc2aeed.chunk.js",
+    "main.js.map": "/panfilkin_carsharing_NEW/static/js/main.6fc2aeed.chunk.js.map",
+    "runtime-main.js": "/panfilkin_carsharing_NEW/static/js/runtime-main.41dd2c22.js",
+    "runtime-main.js.map": "/panfilkin_carsharing_NEW/static/js/runtime-main.41dd2c22.js.map",
+    "static/js/2.47618cae.chunk.js": "/panfilkin_carsharing_NEW/static/js/2.47618cae.chunk.js",
+    "static/js/2.47618cae.chunk.js.map": "/panfilkin_carsharing_NEW/static/js/2.47618cae.chunk.js.map",
+    "index.html": "/panfilkin_carsharing_NEW/index.html",
+    "static/css/main.53e41f52.chunk.css.map": "/panfilkin_carsharing_NEW/static/css/main.53e41f52.chunk.css.map",
+    "static/js/2.47618cae.chunk.js.LICENSE.txt": "/panfilkin_carsharing_NEW/static/js/2.47618cae.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/panfilkin_carsharing_NEW/static/media/left-arrow.da21225b.svg",
+    "static/media/menu_btn.cec3097c.svg": "/panfilkin_carsharing_NEW/static/media/menu_btn.cec3097c.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/panfilkin_carsharing_NEW/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41dd2c22.js",
+    "static/js/2.47618cae.chunk.js",
+    "static/css/main.53e41f52.chunk.css",
+    "static/js/main.6fc2aeed.chunk.js"
+  ]
+}
